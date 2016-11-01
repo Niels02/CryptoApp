@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <!--<uses-library android:name="com.android.future.usb.accessory" />-->
-        <activity android:name=".AesEncryption">
+        <activity android:name=".MainCrypto">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

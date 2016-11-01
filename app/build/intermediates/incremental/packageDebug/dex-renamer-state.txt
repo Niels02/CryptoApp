@@ -1,7 +1,0 @@
-#Tue Nov 01 08:57:09 CET 2016
-base.0=/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82dc22e12235ffda6d13e5dd004b796e52bb0963
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_029f0ffab03876d0fbec6ba7605c88147cf04177/classes.dex
-base.1=/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_029f0ffab03876d0fbec6ba7605c88147cf04177
-file.0=/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82dc22e12235ffda6d13e5dd004b796e52bb0963/classes.dex

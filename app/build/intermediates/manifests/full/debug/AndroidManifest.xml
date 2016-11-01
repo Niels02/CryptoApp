@@ -21,7 +21,7 @@
         android:theme="@style/AppTheme" >
 
         <!-- <uses-library android:name="com.android.future.usb.accessory" /> -->
-        <activity android:name="com.example.niels.cryptoapp.AesEncryption" >
+        <activity android:name="com.example.niels.cryptoapp.MainCrypto" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

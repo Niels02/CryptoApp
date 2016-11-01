@@ -39,7 +39,7 @@ public class MainCrypto extends AppCompatActivity {
     FileInputStream mInputStream;
     FileOutputStream mOutputStream;
 
-    private static final String ACTION_USB_PERMISSION = "com.example.niels.aesapp.USB_PERMISSION";
+    private static final String ACTION_USB_PERMISSION = "com.example.niels.cryptoapp.USB_PERMISSION";
 
     public MainCrypto() {
         runs = 0;

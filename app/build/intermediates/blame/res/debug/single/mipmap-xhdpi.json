@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/Niels/AndroidStudioProjects/AesApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/Niels/AndroidStudioProjects/AesApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
