@@ -16,12 +16,12 @@
         "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_spinner.xml"
-    },
-    {
         "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
         "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
