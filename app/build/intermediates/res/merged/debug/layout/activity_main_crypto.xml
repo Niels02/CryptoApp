@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_aes_encryption"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.niels.cryptoapp.AesEncryption">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Key:"
+        android:id="@+id/textView" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10"
+        android:id="@+id/encKey"
+        android:text="ffffffffffffffffffffffffffffffffffffffffffffffff"
+        tools:text="ffffffffffffffffffffffffffffffffffffffffffffffff"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Sleep time(s):"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/encKey"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/sleepText" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number|numberDecimal"
+        android:text="1"
+        android:ems="10"
+        android:layout_below="@+id/sleepText"
+        android:layout_alignRight="@+id/encKey"
+        android:layout_alignEnd="@+id/encKey"
+        android:layout_marginTop="12dp"
+        android:id="@+id/sleepTime" />
+
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toggleButton"
+        android:text="Start"
+        android:textOff="Start"
+        android:textOn="Stop"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/appendM"
+        android:layout_alignBaseline="@+id/encKey"
+        android:layout_alignBottom="@+id/encKey"
+        android:layout_toRightOf="@+id/encKey"
+        android:layout_toEndOf="@+id/encKey"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:checked="true"
+        android:text="Append messages" />
+
+    <TextView
+        android:text="Runs:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sleepTime"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="17dp"
+        android:id="@+id/Runs" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1000"
+        android:ems="10"
+        android:layout_above="@+id/toggleButton"
+        android:layout_alignRight="@+id/sleepTime"
+        android:layout_alignEnd="@+id/sleepTime"
+        android:id="@+id/numRuns"
+        android:inputType="number" />
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Niels/AndroidStudioProjects/AesApp/app/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/Niels/AndroidStudioProjects/AesApp/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/build/intermediates/res/merged/debug/xml/accessory_filter.xml",
+        "source": "/Users/Niels/AndroidStudioProjects/CryptoApp/app/src/main/res/xml/accessory_filter.xml"
+    },
+    {
+        "merged": "/Users/Niels/AndroidStudioProjects/AesApp/app/build/intermediates/res/merged/debug/xml/accessory_filter.xml",
+        "source": "/Users/Niels/AndroidStudioProjects/AesApp/app/src/main/res/xml/accessory_filter.xml"
+    }
+]
